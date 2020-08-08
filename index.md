@@ -5,6 +5,12 @@
 - [Slides](https://docs.google.com/presentation/d/15kvV2y0MDoJKHOMs8FWgNVGTNq6sWKA4lO6pPxdfaXw/edit?usp=sharing)
 - Video
 
+### Notes and Links
+- [Intro to Colab Notebook](https://github.com/dvschultz/Make-ML-Art-with-Google-Colab/blob/master/Intro_to_Colab.ipynb)
+- [Snippet Notebook](https://github.com/dvschultz/Make-ML-Art-with-Google-Colab/blob/master/Snippets.ipynb)
+- [How to Embed Custom Snippets in Colab](https://youtu.be/rcXrH8euKNA)
+- [Colab Demos Playlist](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9aFmKVP2I9_Y_23BcGk8ZE)
+
 ### Homework
 - Play with models in Colab
   1. Find a model to explore
