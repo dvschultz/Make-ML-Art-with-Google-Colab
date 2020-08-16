@@ -3,7 +3,7 @@
 ## Week 1
 ### Resources
 - [Slides](https://docs.google.com/presentation/d/15kvV2y0MDoJKHOMs8FWgNVGTNq6sWKA4lO6pPxdfaXw/edit?usp=sharing)
-- [Video](https://drive.google.com/file/d/1wM89kKa_riD85mI7kCTaUAwahb6h-Yrl/view?usp=sharing)
+- [Video](https://youtu.be/kIz_Wn_5JHs)
 
 ### Notes and Links
 - [Intro to Colab Notebook](https://github.com/dvschultz/Make-ML-Art-with-Google-Colab/blob/master/Intro_to_Colab.ipynb)
