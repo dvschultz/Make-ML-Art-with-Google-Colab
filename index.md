@@ -30,6 +30,7 @@
 ## Week 2
 ### Resources
 - [Slides](https://docs.google.com/presentation/d/19SQiCRlpzAVnrfVnpDbG5xYUrcLTABb4JPvmMfeWI7s/edit?usp=sharing)
+- [Video](https://youtu.be/Ttbzf_Yue0o)
 
 ### Notes and Links
 
