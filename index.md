@@ -56,3 +56,15 @@
   - [computer vision colab notebooks](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)
   - Google “[model name] colab notebook”
   
+  
+## Week 3
+### Resources
+- [Slides](https://docs.google.com/presentation/d/1IjFX7x1fuuXFL-7jeHkH28gH-hdE52feRAgVpjJkN1w/edit?usp=sharing)
+- [Video](https://youtu.be/I_el07Yit-c)
+
+### Notes and Links
+
+### Homework
+- Try adding GUI components to a notebook from a model in Colab
+- Play with models in Colab
+  
