@@ -72,7 +72,7 @@
 
 ### Resources
 - [Slides](https://docs.google.com/presentation/d/1kkcxpZDXnhICwU5yE5iRZZZpJDF5_zG6koUcPVEtZ-I/edit?usp=sharing)
-- [Video]()
+- [Video](https://youtu.be/5fKZaVsz8TY)
 
 ### Notes and Links
 - Links for additional StyleGAN2 manipulation videos
