@@ -81,5 +81,7 @@
   - [Feature Vectors](https://www.youtube.com/watch?v=fCI3wX38Ong&list=PLWuCzxqIpJs-l4OygaHssyydjOu-AWoHv&index=19)
 
 ### Homework
+- Fill out our [end-of-class survey!](https://forms.gle/xSnFdfZFrcSd4is58)
+- Sign up for 1:1s with [Derrick](https://calendly.com/derrick-schultz/1-on-1) and [Lia](https://calendly.com/lialialiacole/1-1meeting).
 
   
