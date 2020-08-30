@@ -67,4 +67,19 @@
 ### Homework
 - Try adding GUI components to a notebook from a model in Colab
 - Play with models in Colab
+
+## Week 4
+
+### Resources
+- [Slides](https://docs.google.com/presentation/d/1kkcxpZDXnhICwU5yE5iRZZZpJDF5_zG6koUcPVEtZ-I/edit?usp=sharing)
+- [Video]()
+
+### Notes and Links
+- Links for additional StyleGAN2 manipulation videos
+  - [Manipulation](https://www.youtube.com/watch?v=jKJCv9VGqLQ&list=PLWuCzxqIpJs-l4OygaHssyydjOu-AWoHv&index=13)
+  - [Projection and Audio Reaction](https://www.youtube.com/watch?v=FUwSBU5TrT4&list=PLWuCzxqIpJs-l4OygaHssyydjOu-AWoHv&index=14)
+  - [Feature Vectors](https://www.youtube.com/watch?v=fCI3wX38Ong&list=PLWuCzxqIpJs-l4OygaHssyydjOu-AWoHv&index=19)
+
+### Homework
+
   
